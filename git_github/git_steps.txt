@@ -1,2 +1,1 @@
 add, commit
-use git init one time
